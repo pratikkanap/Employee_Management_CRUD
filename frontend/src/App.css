@@ -1,0 +1,30 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.form-container {
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 220px;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+}
