@@ -1,5 +1,3 @@
-# Employee_Management_CRUD
-
 # Employee Management CRUD Application
 
 ## Overview
